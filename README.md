@@ -4,7 +4,7 @@
 
 ## 프로젝트 01 - VR/AR/MR 체감형 콘텐츠 개발 프로젝트
 
-- HTC Vive 기반의 가상현실 콘텐츠를 개발한다.
+- HTC Vive 기반의 가상현실 콘텐츠를 개발한다. (소스코드 [Live Share URL](https://prod.liveshare.vsengsaas.visualstudio.com/join?1430EEB30C7A91BDAE8908BAD922E42D9FDC))
 
 ### 프로젝트 일정
 |일정|기간|3/17|18|19|20|23|24|
