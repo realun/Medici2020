@@ -8,7 +8,7 @@
 
 ### 프로젝트 기획 발표
 
-[프로젝트 기획 발표문서 업로드](https://drive.google.com/drive/folders/1BOzi9HCpeRocHfbugwdbgA_-oFWH09zN?usp=sharing)
+- [프로젝트 기획 발표문서 업로드](https://drive.google.com/drive/folders/1BOzi9HCpeRocHfbugwdbgA_-oFWH09zN?usp=sharing)
 
 2020/03/17 9:30 시작
 
