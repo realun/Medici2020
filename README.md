@@ -29,7 +29,7 @@
 
 
 ### 프로젝트 발표 문서
-[발표문서 작성]()
+[발표문서 작성](https://github.com/IndieGameMaker/Medici2020/blob/master/프로젝트%20발표%20템플릿.pptx)
 
 ### 발표순서
 
