@@ -6,6 +6,12 @@
 
 - HTC Vive 기반의 가상현실 콘텐츠를 개발한다. (소스코드 [Live Share URL](https://prod.liveshare.vsengsaas.visualstudio.com/join?1430EEB30C7A91BDAE8908BAD922E42D9FDC))
 
+### 프로젝트 기획 발표
+
+[프로젝트 기획 문서 업로드](https://drive.google.com/drive/folders/1BOzi9HCpeRocHfbugwdbgA_-oFWH09zN?usp=sharing)
+
+2020/03/17 9:30 시작
+
 ### 프로젝트 일정
 |일정|기간|3/17|18|19|20|23|24|
 |-|-|-|-|-|-|-|-|
